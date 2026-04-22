@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://phyll1s0.github.io/Phyll1s0.space</id>
     <title>phyll1s0</title>
-    <updated>2026-04-22T11:04:15.586Z</updated>
+    <updated>2026-04-22T11:23:33.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Hao Lou</name>
@@ -30,10 +30,11 @@
 <p>Here's a rough map of the territory I plan to explore:</p>
 <h3>Innovative Technology</h3>
 <ul>
-<li>Cutting-edge web frameworks — Vue, React, TypeScript, Astro, and whatever comes next</li>
-<li>AI &amp; LLM applications — building practical tools with modern AI, not just reading papers</li>
-<li>New tech experiments — trying out fresh tools, libraries, and paradigms before they hit mainstream</li>
-<li>Creative coding — generative art, interactive visualizations, and digital experiments</li>
+<li>Systems programming with C++ and Rust</li>
+<li>Rapid prototyping and AI experiments with Python</li>
+<li>Game development adventures with Godot</li>
+<li>AI-assisted development with Claude Code and Vibe Coding</li>
+<li>Building tools and automations with OpenClaw</li>
 </ul>
 <h3>Cool Projects</h3>
 <ul>

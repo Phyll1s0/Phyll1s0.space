@@ -4,7 +4,7 @@
         <title>phyll1s0</title>
         <link>https://phyll1s0.github.io/Phyll1s0.space</link>
         <description>Hao Lou's Blog</description>
-        <lastBuildDate>Wed, 22 Apr 2026 11:04:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Apr 2026 11:23:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
@@ -29,10 +29,11 @@
 <p>Here's a rough map of the territory I plan to explore:</p>
 <h3>Innovative Technology</h3>
 <ul>
-<li>Cutting-edge web frameworks — Vue, React, TypeScript, Astro, and whatever comes next</li>
-<li>AI &amp; LLM applications — building practical tools with modern AI, not just reading papers</li>
-<li>New tech experiments — trying out fresh tools, libraries, and paradigms before they hit mainstream</li>
-<li>Creative coding — generative art, interactive visualizations, and digital experiments</li>
+<li>Systems programming with C++ and Rust</li>
+<li>Rapid prototyping and AI experiments with Python</li>
+<li>Game development adventures with Godot</li>
+<li>AI-assisted development with Claude Code and Vibe Coding</li>
+<li>Building tools and automations with OpenClaw</li>
 </ul>
 <h3>Cool Projects</h3>
 <ul>
