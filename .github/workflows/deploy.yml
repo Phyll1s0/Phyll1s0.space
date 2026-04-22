@@ -42,7 +42,7 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build
-        run: cross-env NODE_ENV=production vite-ssg build
+        run: npx cross-env NODE_ENV=production vite-ssg build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
