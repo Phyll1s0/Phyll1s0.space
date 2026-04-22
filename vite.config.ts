@@ -34,7 +34,7 @@ export default defineConfig({
       { find: '~/', replacement: `${resolve(__dirname, 'src')}/` },
     ],
   },
-  base: '/Phyll1s0.Space/',
+  base: '/Phyll1s0.space/',
   optimizeDeps: {
     include: [
       'vue',
