@@ -20,6 +20,7 @@ Creative Projects
 - Love building fun and useful side projects that explore new technologies
 - Experience with systems programming in C++ and Rust
 - Passionate about game development with Godot
+- Using LaTeX for academic writing and technical documentation
 - Always excited to try bleeding-edge frameworks and libraries
 
 Technology Exploration

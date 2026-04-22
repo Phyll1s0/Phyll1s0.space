@@ -1,5 +1,5 @@
 ---
-title: phyll1s0
+title: Hao Lou (楼灏)
 description: CS Student at SJTU | Innovation Enthusiast | Developer
 image: /og.png
 art: random
@@ -9,7 +9,7 @@ Hey! I'm Hao Lou (Chinese: 楼灏, nickname: phyll1s0/凌灰音), an undergradua
 
 I'm deeply passionate about exploring innovative technologies and building creative projects that push boundaries. Whether it's experimenting with C++, Python, and Rust, diving into AI-assisted development with Claude Code, or crafting game projects in Godot — I love turning ideas into working code.
 
-My toolkit includes C++ for performance-critical systems, Python for rapid prototyping and AI experiments, and Rust for reliable systems programming. I'm also exploring Vibe Coding and building tools with OpenClaw.
+My toolkit includes C++ for performance-critical systems, Python for rapid prototyping and AI experiments, Rust for reliable systems programming, and LaTeX for academic writing and documentation. I'm also exploring Vibe Coding and building tools with OpenClaw.
 
 Outside of code, I enjoy sports, gaming, creative arts, traveling, and contemplating philosophical questions. Always chasing that balance between building things and living life.
 
