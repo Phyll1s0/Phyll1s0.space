@@ -24,9 +24,10 @@ I write blog posts about tech experiments, creative projects, and things I find 
 Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/Phyll1s0" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://x.com/louhao088" target="_blank"><span op75 i-simple-icons-x /> X/Twitter</a>
-  <a href="mailto:louhao088@gmail.com"><span op75 i-carbon-email /> Email</a>
+  <a href="https://phyll1s0.github.io/Phyll1s0.space/" target="_blank"><span op75 i-ri-global-line /> Website</a>
+  <a href="https://github.com/Phyll1s0" target="_blank"><span op75 i-uil-github-alt /> GitHub</a>
+  <a href="https://x.com/louhao088" target="_blank"><span op75 i-ri-twitter-x-line /> X/Twitter</a>
+  <a href="mailto:louhao088@gmail.com"><span op75 i-ri-mail-line /> Email</a>
 </p>
 
 ---
