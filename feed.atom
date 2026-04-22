@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://antfu.me/</id>
+    <title>Anthony Fu</title>
+    <updated>2026-04-22T10:32:15.162Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>Anthony Fu</name>
+        <email>hi@antfu.me</email>
+        <uri>https://antfu.me</uri>
+    </author>
+    <link rel="alternate" href="https://antfu.me/"/>
+    <link rel="self" href="https://antfu.me/feed.atom"/>
+    <subtitle>Anthony Fu' Blog</subtitle>
+    <logo>https://antfu.me/avatar.png</logo>
+    <icon>https://antfu.me/logo.png</icon>
+    <rights>CC BY-NC-SA 4.0 2021 © Anthony Fu</rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World — My New Blog]]></title>
+        <id>https://antfu.me/posts/hello-world</id>
+        <link href="https://antfu.me/posts/hello-world"/>
+        <updated>2026-04-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Kicking off my personal blog to share thoughts on tech, creative projects, and life.]]></summary>
+        <content type="html"><![CDATA[<h2>Welcome to My Blog</h2>
+<p>Hey there! I'm Hao Lou (also known as Phyllis), and this is the very first post on my freshly built personal site.</p>
+<p>After procrastinating for way too long, I finally sat down and forked Anthony Fu's elegant site template to create my own little corner of the internet. The design is minimal, fast, and distraction-free — exactly how I like my code and my thoughts.</p>
+<h2>Why Start a Blog?</h2>
+<p>I believe writing is the best way to clarify thinking. As a Computer Science student at Shanghai Jiao Tong University, I spend most of my days exploring new technologies, building side projects, and chasing the excitement of making something work for the first time. Putting ideas into words helps me find gaps in my understanding — and hopefully helps others who stumble upon these posts.</p>
+<h2>What I'll Write About</h2>
+<p>Here's a rough map of the territory I plan to explore:</p>
+<h3>Innovative Technology</h3>
+<ul>
+<li>Cutting-edge web frameworks — Vue, React, TypeScript, Astro, and whatever comes next</li>
+<li>AI &amp; LLM applications — building practical tools with modern AI, not just reading papers</li>
+<li>New tech experiments — trying out fresh tools, libraries, and paradigms before they hit mainstream</li>
+<li>Creative coding — generative art, interactive visualizations, and digital experiments</li>
+</ul>
+<h3>Cool Projects</h3>
+<ul>
+<li>Side project showcases — the fun, weird, and useful things I build in my free time</li>
+<li>Hackathon recaps — the 48-hour sprints, the sleep deprivation, and the surprisingly good results</li>
+<li>Tool-making — small utilities that solve my own problems (and maybe yours too)</li>
+<li>Open source adventures — contributing to projects, maintaining my own, and learning from the community</li>
+</ul>
+<h3>AI &amp; Machine Learning</h3>
+<ul>
+<li>Practical ML — from feature engineering to model deployment</li>
+<li>AI in everyday tools — using LLMs and deep learning to build things people actually use</li>
+<li>Learning notes — because ML papers are dense and I need to take notes somewhere</li>
+</ul>
+<h3>Life &amp; Interests</h3>
+<ul>
+<li>Skiing — my absolute favorite sport. Speed, freedom, and the occasional face-plant into powder</li>
+<li>Tennis — second favorite. Great for focus, agility, and pretending I'm more athletic than I am</li>
+<li>Billiards — third favorite, and tonight's plan at 9 PM</li>
+<li>Gaming — Zenless Zone Zero, Hollow Knight, CS2, and whatever catches my eye</li>
+<li>Movies, anime, music, singing — J-Pop, classical, soundtracks, and whatever fuels late-night coding sessions</li>
+<li>Traveling — discovering new places and perspectives</li>
+<li>Philosophy — contemplating the big questions and reading thought-provoking works</li>
+<li>Investment research — exploring markets and analyzing trends</li>
+</ul>
+<h3>Random Thoughts</h3>
+<ul>
+<li>Book recommendations</li>
+<li>Travel notes</li>
+<li>Reflections on being a CS student in Shanghai</li>
+<li>Whatever crosses my mind at 2 AM</li>
+</ul>
+<h2>The Goal</h2>
+<p>I don't promise a rigid posting schedule. Instead, I'll write when I have something worth saying — whether that's a tutorial on a shiny new framework, a deep dive into a fun project, or just a story about why my experimental build failed at 3 AM.</p>
+<p>Quality over quantity. Curiosity over clout.</p>
+<h2>Let's Connect</h2>
+<p>If anything here resonates with you, feel free to reach out:</p>
+<ul>
+<li>GitHub: Phyll1s0</li>
+<li>X/Twitter: @louhao088</li>
+<li>Email: <a href="mailto:louhao088@gmail.com">louhao088@gmail.com</a></li>
+</ul>
+<p>Thanks for stopping by. The journey starts here.</p>
+<hr>
+<p>Published on April 22, 2026 from Shanghai.</p>
+]]></content>
+        <author>
+            <name>Anthony Fu</name>
+            <email>hi@antfu.me</email>
+            <uri>https://antfu.me</uri>
+        </author>
+    </entry>
+</feed>
