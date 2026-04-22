@@ -1,15 +1,15 @@
 ---
-title: Hao Lou (楼灏)
-description: CS Student at SJTU | Innovation Enthusiast | Full-stack Developer
+title: phyll1s0
+description: CS Student at SJTU | Innovation Enthusiast | Developer
 image: /og.png
 art: random
 ---
 
 Hey! I'm Hao Lou (Chinese: 楼灏, nickname: phyll1s0/凌灰音), an undergraduate at Shanghai Jiao Tong University, majoring in Computer Science.
 
-I'm deeply passionate about exploring innovative technologies and building creative projects that push boundaries. Whether it's experimenting with cutting-edge web frameworks, diving into AI/ML breakthroughs, or crafting tools that solve real problems — I love turning ideas into working code.
+I'm deeply passionate about exploring innovative technologies and building creative projects that push boundaries. Whether it's experimenting with C++, Python, and Rust, diving into AI-assisted development with Claude Code, or crafting game projects in Godot — I love turning ideas into working code.
 
-Currently tinkering with modern full-stack architectures, AI-powered applications, and anything that sparks my curiosity. I believe great software comes from the intersection of technical depth and creative thinking.
+My toolkit includes C++ for performance-critical systems, Python for rapid prototyping and AI experiments, and Rust for reliable systems programming. I'm also exploring Vibe Coding and building tools with OpenClaw.
 
 Outside of code, I enjoy sports, gaming, creative arts, traveling, and contemplating philosophical questions. Always chasing that balance between building things and living life.
 

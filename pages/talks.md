@@ -11,22 +11,22 @@ art: diamond
 Shanghai Jiao Tong University (2024 - 2028)
 
 - Bachelor of Science in Computer Science
-- Focus: Machine Learning, Software Engineering, Innovative Technology
+- Focus: Systems Programming, Game Development, AI-Assisted Coding
 
 ## Projects & Development
 
 Creative Projects
 
 - Love building fun and useful side projects that explore new technologies
-- Experience with full-stack web applications using Vue.js, React, and TypeScript
-- Passionate about creating clean, user-friendly interfaces with modern tooling
+- Experience with systems programming in C++ and Rust
+- Passionate about game development with Godot
 - Always excited to try bleeding-edge frameworks and libraries
 
 Technology Exploration
 
-- Exploring AI-powered applications and practical uses of large language models
-- Experimenting with creative coding, generative art, and interactive visualizations
-- Interested in serverless architectures and cloud-native development
+- Exploring AI-powered development with Claude Code and Vibe Coding
+- Experimenting with creative coding and interactive visualizations
+- Building tools and automations with OpenClaw
 - Active in the open-source community, learning from and contributing to projects
 
 ## Life & Interests

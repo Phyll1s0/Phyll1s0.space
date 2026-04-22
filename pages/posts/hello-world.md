@@ -23,10 +23,11 @@ Here's a rough map of the territory I plan to explore:
 
 ### Innovative Technology
 
-- Cutting-edge web frameworks — Vue, React, TypeScript, Astro, and whatever comes next
-- AI & LLM applications — building practical tools with modern AI, not just reading papers
-- New tech experiments — trying out fresh tools, libraries, and paradigms before they hit mainstream
-- Creative coding — generative art, interactive visualizations, and digital experiments
+- Systems programming with C++ and Rust
+- Rapid prototyping and AI experiments with Python
+- Game development adventures with Godot
+- AI-assisted development with Claude Code and Vibe Coding
+- Building tools and automations with OpenClaw
 
 ### Cool Projects
 
