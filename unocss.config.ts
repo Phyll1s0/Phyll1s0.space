@@ -1,11 +1,7 @@
 import {
-  createLocalFontProcessor,
-} from '@unocss/preset-web-fonts/local'
-import {
   defineConfig,
   presetAttributify,
   presetIcons,
-  presetWebFonts,
   presetWind3,
   transformerDirectives,
 } from 'unocss'
@@ -35,15 +31,7 @@ export default defineConfig({
     }),
     presetAttributify(),
     presetWind3(),
-    presetWebFonts({
-      fonts: {
-        sans: 'Inter',
-        mono: 'DM Mono',
-        condensed: 'Roboto Condensed',
-        wisper: 'Bad Script',
-      },
-      processors: createLocalFontProcessor(),
-    }),
+    // Web fonts disabled for offline build
   ],
   transformers: [
     transformerDirectives(),

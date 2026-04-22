@@ -1,24 +1,21 @@
 ---
-title: Anthony Fu
-description: Anthony Fu's Portfolio
-image: https://antfu.me/og.png
+title: Hao Lou (楼灏)
+description: CS Student at SJTU | Innovation Enthusiast | Full-stack Developer
+image: /og.png
 art: random
 ---
 
-Hey! I'm Anthony Fu, a fanatical open sourceror and design engineer.
+Hey! I'm Hao Lou (Chinese: 楼灏, nickname: phyll1s0/凌灰音), an undergraduate at Shanghai Jiao Tong University, majoring in Computer Science.
 
-Working at {Vercel} / {Nuxt}<br>
-Creator of {Vitest} {Slidev} {VueUse} {UnoCSS} {Elk} {Type Challenges}<br>
-Core team of {Vue} {Nuxt} {Vite}<br>
-Maintaining {Shiki} {Twoslash} {ESLint Stylistic}
+I'm deeply passionate about exploring innovative technologies and building creative projects that push boundaries. Whether it's experimenting with cutting-edge web frameworks, diving into AI/ML breakthroughs, or crafting tools that solve real problems — I love turning ideas into working code.
 
-Dreaming up cool ideas and making them come true is where my passion lies. I am enthusiastic about building tools that help myself and others to be more productive and enjoy the process of crafting. You can find my [full projects list here](/projects).
+Currently tinkering with modern full-stack architectures, AI-powered applications, and anything that sparks my curiosity. I believe great software comes from the intersection of technical depth and creative thinking.
 
-I give [talks](/talks) and write [blog posts](/posts) about open source, coding, etc.
-I am co-hosting a podcast [_No Coding Today_](https://bento.me/nocodingtoday) <span op75>(in Mandarin)</span>. Occasionally, I do live coding streams on [YouTube](https://www.youtube.com/anthonyfu7) and [哔哩哔哩](https://space.bilibili.com/668380).
-From time to time, I make some generative-art, interactivity experiments on [100.antfu.me](https://100.antfu.me/).
+Outside of code, I enjoy sports, gaming, creative arts, traveling, and contemplating philosophical questions. Always chasing that balance between building things and living life.
 
-Outside of programming, I enjoy doing photography and traveling. I post [photos on this page](/photos). I also love anime, movies and dramas, I am trying to list my [media consumption](/media). Also, in case you are interested, here are the [hardware/software I use](/use).
+You can find my full projects list here.
+
+I write blog posts about tech experiments, creative projects, and things I find interesting.
 
 <div flex-auto />
 
@@ -27,26 +24,11 @@ Outside of programming, I enjoy doing photography and traveling. I post [photos 
 Find me on
 
 <p flex="~ gap-2 wrap" class="mt--2!">
-  <a href="https://github.com/antfu" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
-  <a href="https://bsky.app/profile/antfu.me" target="_blank"><span op75 i-ri-bluesky-fill /> Bluesky</a>
-  <a href="https://chat.antfu.me" target="_blank"><span op75 i-simple-icons-discord /> Discord Server</a>
- <a href="https://x.com/antfu7" target="_blank"><span op75 i-ri-twitter-x-fill /> Twitter</a>
-  <a href="https://x.com/antfuzh" target="_blank"><span op75 i-ri-twitter-x-fill /> 中文推</a>
-  <a href="https://x.com/antfujp" target="_blank"><span op75 i-ri-twitter-x-fill /> 日本語</a>
+  <a href="https://github.com/Phyll1s0" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
+  <a href="https://x.com/louhao088" target="_blank"><span op75 i-simple-icons-x /> X/Twitter</a>
+  <a href="mailto:louhao088@gmail.com"><span op75 i-carbon-email /> Email</a>
 </p>
-
-Or mail me at <span font-mono>hi<span i-carbon-at/>antfu.me</span>
-
-<!--
-<span op50>(</span> Inactive on <span flex="~ inline gap-2 wrap">
-<a href="https://elk.zone/m.webtoo.ls/@antfu" target="_blank"><span op75 i-simple-icons-mastodon/> Mastodon</a>
-<a href="https://www.threads.net/@antfu7" target="_blank"><span op75 i-ri-threads-line /> Threads</a>
-<a href="https://www.youtube.com/anthonyfu7" target="_blank"><span op75 i-simple-icons-youtube /> YouTube</a>
-<a href="https://www.instagram.com/antfu7" target="_blank"><span op75 i-simple-icons-instagram /> Instagram</a>
-<a href="https://space.bilibili.com/668380" target="_blank"><span op75 i-simple-icons-bilibili /> 哔哩哔哩</a>
-<a href="https://www.zhihu.com/people/antfu" target="_blank"><span op75 i-simple-icons-zhihu /> 知乎</a>
-<a href="https://weibo.com/u/7485197193" target="_blank"><span op75 i-simple-icons-sinaweibo /> 微博</a></span> <span op50>)</span> -->
 
 ---
 
-<SponsorButtons />
+<!-- <SponsorButtons /> -->
