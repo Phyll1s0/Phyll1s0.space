@@ -44,7 +44,9 @@ jobs:
         run: pnpm install --frozen-lockfile
 
       - name: Build
-        run: npx vite-ssg build
+        run: |
+          echo "Building with NODE_ENV=$NODE_ENV"
+          pnpm exec vite-ssg build
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
