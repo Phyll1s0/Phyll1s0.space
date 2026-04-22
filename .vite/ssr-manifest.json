@@ -11,7 +11,7 @@
   ],
   "\u0000vue-router/auto-routes": [],
   "data/media.ts": [
-    "/Phyll1s0.space/assets/media-CP7qfVV5.js"
+    "/Phyll1s0.space/assets/media-B13le1Rv.js"
   ],
   "index.html": [],
   "node_modules/.pnpm/@floating-ui+core@1.3.1/node_modules/@floating-ui/core/dist/floating-ui.core.browser.min.mjs": [],
@@ -33,7 +33,7 @@
   ],
   "node_modules/.pnpm/@unocss+reset@66.6.8/node_modules/@unocss/reset/tailwind.css": [],
   "node_modules/.pnpm/@unpic+placeholder@0.1.2/node_modules/@unpic/placeholder/dist/index.mjs": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "node_modules/.pnpm/@vue+reactivity@3.5.32/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
     "/Phyll1s0.space/assets/dist-D-htiLo6.js"
@@ -54,7 +54,7 @@
     "/Phyll1s0.space/assets/dist-D-htiLo6.js"
   ],
   "node_modules/.pnpm/blurhash@2.0.5/node_modules/blurhash/dist/esm/index.js": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "node_modules/.pnpm/dayjs@1.11.20/node_modules/dayjs/dayjs.min.js": [
     "/Phyll1s0.space/assets/logics-C4npNzzL.js"
@@ -1276,38 +1276,38 @@
     "/Phyll1s0.space/assets/_...404_-CQVu_1P_.js"
   ],
   "pages/bookmarks.md": [
-    "/Phyll1s0.space/assets/bookmarks-DE1Pky_l.js"
+    "/Phyll1s0.space/assets/bookmarks-DVoEHRBY.js"
   ],
   "pages/index.md": [
     "/Phyll1s0.space/assets/pages-BtoeYY6y.js"
   ],
   "pages/media.md": [
-    "/Phyll1s0.space/assets/media-CP7qfVV5.js"
+    "/Phyll1s0.space/assets/media-B13le1Rv.js"
   ],
   "pages/notes.md": [
-    "/Phyll1s0.space/assets/notes-DksQ9CL4.js"
+    "/Phyll1s0.space/assets/notes-DPEXBi_U.js"
   ],
   "pages/photos.md": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "pages/posts/hello-world.md": [
-    "/Phyll1s0.space/assets/hello-world-DAKWNInJ.js"
+    "/Phyll1s0.space/assets/hello-world-DNHTn0Nf.js"
   ],
   "pages/posts/index.md": [
     "/Phyll1s0.space/assets/posts-lmB0wscJ.js"
   ],
   "pages/projects.md": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "pages/talks.md": [
-    "/Phyll1s0.space/assets/talks-CgnB-yOW.js"
+    "/Phyll1s0.space/assets/talks-1eP5BFIp.js"
   ],
   "pages/use.md": [
-    "/Phyll1s0.space/assets/use-D0xYPB-U.js"
+    "/Phyll1s0.space/assets/use-DYrjUkFK.js"
   ],
   "photos/data.ts": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "src/App.vue": [],
   "src/App.vue?vue&type=script&setup=true&lang.ts": [],
@@ -1333,24 +1333,24 @@
     "/Phyll1s0.space/assets/SubNav-CWJ8UltK.js"
   ],
   "src/components/ListProjects.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/ListProjects.vue?vue&type=script&setup=true&lang.ts": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/ListProjects.vue?vue&type=style&index=0&scoped=fc257985&lang.css": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/Logo.vue": [],
   "src/components/Logo.vue?vue&type=style&index=0&scoped=3123731f&lang.css": [],
   "src/components/MediaConsumption.vue": [
-    "/Phyll1s0.space/assets/media-CP7qfVV5.js"
+    "/Phyll1s0.space/assets/media-B13le1Rv.js"
   ],
   "src/components/MediaConsumption.vue?vue&type=script&setup=true&lang.ts": [
-    "/Phyll1s0.space/assets/media-CP7qfVV5.js"
+    "/Phyll1s0.space/assets/media-B13le1Rv.js"
   ],
   "src/components/NavBar.vue": [],
   "src/components/NavBar.vue?vue&type=script&setup=true&lang.ts": [],
@@ -1370,48 +1370,48 @@
     "/Phyll1s0.space/assets/vue.D51lypTh-HO-v9IYN.js"
   ],
   "src/components/icons/AnthonyFu.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/Elk.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/Slidev.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/Unocss.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/Vitest.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/VueDemi.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/VueReactivity.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/icons/VueUse.vue": [
-    "/Phyll1s0.space/assets/projects-BYsjpVKR.js",
+    "/Phyll1s0.space/assets/projects-BhOc53W3.js",
     "/Phyll1s0.space/assets/projects-Bstqwbn9.css"
   ],
   "src/components/photos/PhotoGalleryAll.vue": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "src/components/photos/PhotoGalleryAll.vue?vue&type=script&setup=true&lang.ts": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "src/components/photos/PhotoGrid.vue": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "src/components/photos/PhotoGrid.vue?vue&type=script&setup=true&lang.ts": [
-    "/Phyll1s0.space/assets/photos-DzBSKeTR.js"
+    "/Phyll1s0.space/assets/photos-Id4x2noN.js"
   ],
   "src/logics/index.ts": [
     "/Phyll1s0.space/assets/logics-C4npNzzL.js"

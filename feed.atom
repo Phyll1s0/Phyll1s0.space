@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://antfu.me/</id>
-    <title>Anthony Fu</title>
-    <updated>2026-04-22T10:58:00.799Z</updated>
+    <id>https://phyll1s0.github.io/Phyll1s0.space</id>
+    <title>phyll1s0</title>
+    <updated>2026-04-22T11:04:15.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
-        <name>Anthony Fu</name>
-        <email>hi@antfu.me</email>
-        <uri>https://antfu.me</uri>
+        <name>Hao Lou</name>
+        <email>louhao088@gmail.com</email>
+        <uri>https://phyll1s0.github.io/Phyll1s0.space</uri>
     </author>
-    <link rel="alternate" href="https://antfu.me/"/>
-    <link rel="self" href="https://antfu.me/feed.atom"/>
-    <subtitle>Anthony Fu' Blog</subtitle>
-    <logo>https://antfu.me/avatar.png</logo>
-    <icon>https://antfu.me/logo.png</icon>
-    <rights>CC BY-NC-SA 4.0 2021 © Anthony Fu</rights>
+    <link rel="alternate" href="https://phyll1s0.github.io/Phyll1s0.space"/>
+    <link rel="self" href="https://phyll1s0.github.io/Phyll1s0.space/feed.atom"/>
+    <subtitle>Hao Lou's Blog</subtitle>
+    <logo>https://phyll1s0.github.io/Phyll1s0.space/favicon.svg</logo>
+    <icon>https://phyll1s0.github.io/Phyll1s0.space/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © Hao Lou</rights>
     <entry>
         <title type="html"><![CDATA[Hello World — My New Blog]]></title>
-        <id>https://antfu.me/posts/hello-world</id>
-        <link href="https://antfu.me/posts/hello-world"/>
+        <id>https://phyll1s0.github.io/Phyll1s0.space/posts/hello-world</id>
+        <link href="https://phyll1s0.github.io/Phyll1s0.space/posts/hello-world"/>
         <updated>2026-04-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Kicking off my personal blog to share thoughts on tech, creative projects, and life.]]></summary>
         <content type="html"><![CDATA[<h2>Welcome to My Blog</h2>
@@ -81,9 +81,9 @@
 <p>Published on April 22, 2026 from Shanghai.</p>
 ]]></content>
         <author>
-            <name>Anthony Fu</name>
-            <email>hi@antfu.me</email>
-            <uri>https://antfu.me</uri>
+            <name>Hao Lou</name>
+            <email>louhao088@gmail.com</email>
+            <uri>https://phyll1s0.github.io/Phyll1s0.space</uri>
         </author>
     </entry>
 </feed>

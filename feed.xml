@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Anthony Fu</title>
-        <link>https://antfu.me/</link>
-        <description>Anthony Fu' Blog</description>
-        <lastBuildDate>Wed, 22 Apr 2026 10:58:00 GMT</lastBuildDate>
+        <title>phyll1s0</title>
+        <link>https://phyll1s0.github.io/Phyll1s0.space</link>
+        <description>Hao Lou's Blog</description>
+        <lastBuildDate>Wed, 22 Apr 2026 11:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <image>
-            <title>Anthony Fu</title>
-            <url>https://antfu.me/avatar.png</url>
-            <link>https://antfu.me/</link>
+            <title>phyll1s0</title>
+            <url>https://phyll1s0.github.io/Phyll1s0.space/favicon.svg</url>
+            <link>https://phyll1s0.github.io/Phyll1s0.space</link>
         </image>
-        <copyright>CC BY-NC-SA 4.0 2021 © Anthony Fu</copyright>
-        <atom:link href="https://antfu.me/feed.xml" rel="self" type="application/rss+xml"/>
+        <copyright>CC BY-NC-SA 4.0 2024 © Hao Lou</copyright>
+        <atom:link href="https://phyll1s0.github.io/Phyll1s0.space/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World — My New Blog]]></title>
-            <link>https://antfu.me/posts/hello-world</link>
-            <guid isPermaLink="true">https://antfu.me/posts/hello-world</guid>
+            <link>https://phyll1s0.github.io/Phyll1s0.space/posts/hello-world</link>
+            <guid isPermaLink="true">https://phyll1s0.github.io/Phyll1s0.space/posts/hello-world</guid>
             <pubDate>Wed, 22 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[Kicking off my personal blog to share thoughts on tech, creative projects, and life.]]></description>
             <content:encoded><![CDATA[<h2>Welcome to My Blog</h2>
@@ -79,7 +79,7 @@
 <hr>
 <p>Published on April 22, 2026 from Shanghai.</p>
 ]]></content:encoded>
-            <author>hi@antfu.me (Anthony Fu)</author>
+            <author>louhao088@gmail.com (Hao Lou)</author>
         </item>
     </channel>
 </rss>
